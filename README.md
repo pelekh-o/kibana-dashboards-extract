@@ -14,7 +14,7 @@ python3 kibana_extract.py --url http://localhost:5601 -u elastic_user -p changem
   -u USER, --user USER  Kibana user
   -p PWD, --pwd PWD     User password
 ```
-optional arguments
+* optional arguments
 ```commandline
   -h, --help            show this help message and exit
   -d DIR, --dir DIR     Output directory. Default "./extracts"
